@@ -96,8 +96,7 @@ def display_issued_books():
             highest = book["total_issued"]
             popular_book = book["book_name"]
 
-    print("Most Frequently Issued Book:", popular_book) 
-
+    print("Most Frequently Issued Book:", popular_book)   
 
 
 # Return a Book
