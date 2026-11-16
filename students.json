@@ -1,0 +1,14 @@
+[
+    {
+        "student_id": "B101",
+        "student_name": "ANKITA",
+        "department": "CSE",
+        "contact": "234XXXX"
+    },
+    {
+        "student_id": "B102",
+        "student_name": "Anku",
+        "department": "CSE",
+        "contact": "12345"
+    }
+]

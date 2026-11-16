@@ -1,0 +1,26 @@
+[
+    {
+        "book_id": "A104",
+        "book_name": "Advance Python",
+        "author": "Code with hary",
+        "category": "Programming",
+        "available_copies": 134,
+        "total_issued": 0
+    },
+    {
+        "book_id": "A102",
+        "book_name": "MATHS",
+        "author": "JS GRESWAL",
+        "category": "BTECH",
+        "available_copies": 67,
+        "total_issued": 0
+    },
+    {
+        "book_id": "A101",
+        "book_name": "Python",
+        "author": "goldstein",
+        "category": "Programming",
+        "available_copies": 50,
+        "total_issued": 2
+    }
+]
